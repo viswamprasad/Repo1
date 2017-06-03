@@ -1,0 +1,10 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 4A1F-1ED8
+
+ Directory of C:\Users\Viswa\Desktop\MyProject
+
+06/03/2017  03:56 PM    <DIR>          .
+06/03/2017  03:56 PM    <DIR>          ..
+06/03/2017  03:56 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,914,752,000 bytes free
